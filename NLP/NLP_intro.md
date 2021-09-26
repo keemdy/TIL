@@ -1,9 +1,9 @@
-[자연어 처리](#자연어-처리)
-[NLP task](#nlp-task)
-[NLP 이외의 분야](#nlp-이외의-분야)
-[Text mining task](#text-mining-task)
-[Information retrieval task](#information-retrieval-task)
-[NLP 최근 발전](#nlp-최근-발전)
+1. [자연어 처리](#자연어-처리) 
+2. [NLP task](#nlp-task) 
+3. [NLP 이외의 분야](#nlp-이외의-분야) 
+4. [Text mining task](#text-mining-task) 
+5. [Information retrieval task](#information-retrieval-task) 
+6. [NLP 최근 발전](#nlp-최근-발전) 
 
 ## 자연어 처리
 
